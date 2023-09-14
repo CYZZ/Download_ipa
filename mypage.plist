@@ -1,0 +1,48 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>https://cos.pgyer.com/c2d30ed9ef10f8abb4da3a615b3043dc.ipa?sign=aab8907a0fdabc6db29dd2559d59f8e0&amp;sign2=78fd9481ad096b8f990ad88b84169c3d&amp;t=1694704260&amp;response-content-disposition=attachment%3Bfilename%3D%E6%95%A3%E4%BA%BA%E4%B9%8B%E6%80%92%E7%81%AB%E4%B8%80%E5%88%80_2.1.1.ipa</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<false />
+						<key>url</key>
+						<string>https://cdn-app-icon.pgyer.com/9/7/b/1/f/97b1f21e94e54bd00ff1f98ff9adc288?x-oss-process=image/resize,m_lfit,h_120,w_120/format,jpg</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<false />
+						<key>url</key>
+						<string>https://cdn-app-icon.pgyer.com/9/7/b/1/f/97b1f21e94e54bd00ff1f98ff9adc288?x-oss-process=image/resize,m_lfit,h_120,w_120/format,jpg</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.hcbtydg.hcbtydg</string>
+					<key>bundle-version</key>
+					<string>2.1.1</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>subtitle</key>
+					<string>散人之怒火一刀</string>
+					<key>title</key>
+					<string>散人之怒火一刀</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</plist>
